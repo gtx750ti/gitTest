@@ -8,6 +8,7 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("fuck you,git");
         System.out.println("fuck you,github");
+        System.out.println("fuck you,gitee");
 
     }
 }
