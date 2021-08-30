@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("fuck you,github");
         System.out.println("fuck you,gitee");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 }
